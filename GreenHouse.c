@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// this shit is buns
+// i'm tired boss
 int main ()
 {
     int number;
